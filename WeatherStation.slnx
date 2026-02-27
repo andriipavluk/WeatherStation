@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="Database/Database.csproj" Id="e6b8fafe-e2e0-4537-b4cc-af351c9c2e16" />
+  <Project Path="Repository/Repository.csproj" Id="bda22de2-f4bd-416a-ad6c-1c571b522b7c" />
   <Project Path="WeatherStation/WeatherStation.csproj" />
 </Solution>
